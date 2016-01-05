@@ -5,7 +5,7 @@ edison image for hope
 `sudo apt-get install p7zip-full`
 
 2, uncompress
-`7z x toFlash20151228.7z.001`
+`7z x toFlash20160104.7z.001`
 
 3, flash the image to edison. you can use the 'phone flash tool' [https://software.intel.com/en-us/using-flash-tool-lite] or directly flash in ubuntu system
 
